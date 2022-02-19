@@ -7,7 +7,7 @@ public class elseifEX1 {
 		int charge = 1000;
 		
 		if(age < 10) {
-			charge = 1500;
+			charge = 15000;
 			System.out.println("아동입니다");
 		}
 		else if(age < 14) {
